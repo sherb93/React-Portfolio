@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    height: 3em;
+    padding: 0.5em;
+
+    position: sticky;
+
+    box-shadow: 0 10px 16px 0px rgba(0,0,0,.2);
+}
+
+#nav-container {
+    height: 100%;
+    margin: 0em 20em;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#nav-list {
+    display: flex;
+    gap: 2em;
+
+    list-style: none;
+}

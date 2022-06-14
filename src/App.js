@@ -2,6 +2,7 @@ import React, {useState} from 'react';
 import Footer from './components/Footer';
 import Navbar from './components/Navbar';
 import Page from './components/Page';
+import './style.css';
 
 
 function App() {

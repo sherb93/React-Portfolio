@@ -22,7 +22,7 @@ function Page({ currentPage }) {
     }
 
     return (
-        <section>
+        <section className="about-background">
             {renderPage()}
         </section>
     );

@@ -1,11 +1,12 @@
 import React from 'react';
+import './about.css';
 
 function AboutMe() {
 
 
     return (
         <div className="container">
-            <h1>About Me</h1>
+            <h1 className="title">About Me</h1>
             <hr></hr>
             <p>
                 My name is Robert Slocumbe and I have experience building MERN Stack web applications with a team utilizing Git Version Control and Agile Methodology. I recently received a Certificate in Full Stack Web Development from Georgia Tech.

@@ -5,7 +5,7 @@
 }
 
 nav {
-    height: 3em;
+    height: 52px;
     padding: 0.5em;
 
     position: sticky;
@@ -15,7 +15,6 @@ nav {
 
 #nav-container {
     height: 100%;
-    margin: 0em 20em;
 
     display: flex;
     justify-content: space-between;
@@ -23,8 +22,14 @@ nav {
 }
 
 #nav-list {
-    display: flex;
+    display: flex; /* change to flex */
     gap: 2em;
 
     list-style: none;
+}
+
+/*////// CONTENT //////*/
+
+.container {
+    
 }

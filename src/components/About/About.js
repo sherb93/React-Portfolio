@@ -19,18 +19,21 @@ function About() {
                     <div className="about__cards">
                         <article className="about__card">
                             <AiOutlineUser className="about__icon" />
-                            <h5>Experience</h5>
-                            <small>3 Years</small>
+                            <h5>Certificate</h5>
+                            <small>Fullstack Web Development</small>
+                            <small>The Georgia Institute of Technology</small>
                         </article>
                         <article className="about__card">
                             <AiOutlineUser className="about__icon" />
-                            <h5>Experience</h5>
-                            <small>3 Years</small>
+                            <h5>Bachelor's</h5>
+                            <small>B.S. Financial Planning</small>
+                            <small>The University of Georgia</small>
                         </article>
                         <article className="about__card">
                             <AiOutlineUser className="about__icon" />
-                            <h5>Experience</h5>
+                            <h5>Universal Banker</h5>
                             <small>3 Years</small>
+                            <small>Synovus Bank</small>
                         </article>
                     </div>
 

@@ -6,7 +6,7 @@ import './header.css';
 
 function Header() {
     return (
-        <header>
+        <header id="home">
             <div className="container header__container">
                 <h5>Hello</h5>
                 <h1>Robert Slocumbe</h1>

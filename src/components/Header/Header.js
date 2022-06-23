@@ -1,6 +1,7 @@
 import React from 'react';
 import CTA from './CTA'
 import SocialBtns from './SocialBtns'
+import Selfie from '../../assets/portrait.png'
 import './header.css';
 
 function Header() {
@@ -13,7 +14,7 @@ function Header() {
                 <CTA />
 
                 <div className="me">
-                    <img src="" alt="selfie" />
+                    <img src={Selfie} alt="selfie" />
                 </div>
 
                 <SocialBtns />

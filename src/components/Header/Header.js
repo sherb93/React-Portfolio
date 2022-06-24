@@ -13,11 +13,11 @@ function Header() {
                 <h5 className="text-light">Full-Stack Web Developer</h5>
                 <CTA />
 
-                <div className="me">
+                {/* <div className="me">
                     <img src={Selfie} alt="selfie" />
                 </div>
 
-                <SocialBtns />
+                <SocialBtns /> */}
             </div>
         </header>
     );

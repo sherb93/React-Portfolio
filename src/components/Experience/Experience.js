@@ -5,7 +5,6 @@ import './experience.css';
 function Experience() {
     return (
         <section id="experience">
-            <h5>Programming Skills</h5>
             <h2>Coding Experience</h2>
 
             <div className="container experience__container">

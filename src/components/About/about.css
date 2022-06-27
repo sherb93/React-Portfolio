@@ -5,29 +5,50 @@
 }
 
 .about__me {
-    width: 100%;
-    aspect-ratio: 1/1;
-    border-radius: 2rem;
-    background: linear-gradient(
-        45deg,
-        transparent,
-        var(--color-primary),
-        transparent
-    );
-    display: grid;
-    place-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 2rem;
 }
 
-.about__me-image {
+.about_me-image {
+    max-height: 600px;
+}
+
+.about__me-image img {
+
+}
+
+.about__socials {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+    gap: 2.5rem;
+}
+
+.social__block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.social__block a {
+    font-size: 2.5rem;
+    height: 40px;
+}
+
+.social__block small {
+    font-size: 0.7rem;
+    margin-top: 1rem;
+}
+
+/* .about__me-image {
     border-radius: 2rem;
     overflow: hidden;
     transform-origin: rotate(10deg);
     transition: var(--transition);
-}
-
-.about__me-image:hover {
-    transform: rotate(0);
-}
+} */
 
 .about__cards {
     display: grid;
@@ -39,7 +60,7 @@
     background: var(--color-bg-variant);
     border: 1px solid transparent;
     border-radius: 1rem;
-    padding: 2rem;
+    padding: 1.8rem;
     text-align: center;
     transition: var(--transition);
 }
@@ -53,8 +74,9 @@
 /* change when adding logos */
 .about__icon {
     color: var(--color-primary);
-    font-size: 1.4rem;
-    margin-bottom: 1rem;
+    display: inline;
+    width: 4rem;
+    margin-bottom: 0.5rem;
 }
 
 .about__card h5 {

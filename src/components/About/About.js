@@ -1,5 +1,8 @@
 import React from 'react';
-import { AiOutlineUser } from 'react-icons/ai'
+import SocialBtns from './SocialBtns'
+import UgaIMG from '../../assets/uga_logo.jpg'
+import GaTechIMG from '../../assets/gatech_logo.jpg'
+import SynovusIMG from '../../assets/synovus_logo.png'
 import Selfie from '../../assets/portrait.png'
 import './about.css';
 
@@ -13,24 +16,25 @@ function About() {
                     <div className="about__me-image">
                         <img src={Selfie} alt="Robert's handsome face" />
                     </div>
+                    <SocialBtns />
                 </div>
 
                 <div className="about__content">
                     <div className="about__cards">
                         <article className="about__card">
-                            <AiOutlineUser className="about__icon" />
+                            <img src={GaTechIMG} alt="uga logo" className="about__icon" />
                             <h5>Certificate</h5>
                             <small>Fullstack Web Development</small>
                             <small>The Georgia Institute of Technology</small>
                         </article>
                         <article className="about__card">
-                            <AiOutlineUser className="about__icon" />
+                            <img src={UgaIMG} alt="uga logo" className="about__icon" />
                             <h5>Bachelor's</h5>
                             <small>B.S. Financial Planning</small>
                             <small>The University of Georgia</small>
                         </article>
                         <article className="about__card">
-                            <AiOutlineUser className="about__icon" />
+                            <img src={SynovusIMG} alt="uga logo" className="about__icon" />
                             <h5>Universal Banker</h5>
                             <small>3 Years</small>
                             <small>Synovus Bank</small>

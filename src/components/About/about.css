@@ -1,3 +1,8 @@
+#about {
+    /* background: url("../../assets/crater-lake.jpg") no-repeat center center; */
+    /* opacity: 0.5; */
+}
+
 .about__container {
     display: grid;
     grid-template-columns: 35% 50%;
@@ -66,6 +71,7 @@
 }
 
 .about__card:hover {
+    transform: scale(1.1);
     background: transparent;
     border-color: var(--color-primary-variant);
     cursor: default;

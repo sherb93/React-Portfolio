@@ -9,7 +9,6 @@ function Header() {
             <div className="container header__container">
                 <h1>Robert Slocumbe</h1>
                 <h5 className="text-light">Full-Stack Web Developer</h5>
-                <CTA />
             </div>
         </header>
     );

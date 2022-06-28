@@ -21,19 +21,19 @@ function About() {
 
                 <div className="about__content">
                     <div className="about__cards">
-                        <article className="about__card">
+                        <article className="box about__card">
                             <img src={GaTechIMG} alt="uga logo" className="about__icon" />
                             <h5>Certificate</h5>
                             <small>Fullstack Web Development</small>
                             <small>The Georgia Institute of Technology</small>
                         </article>
-                        <article className="about__card">
+                        <article className="box about__card">
                             <img src={UgaIMG} alt="uga logo" className="about__icon" />
                             <h5>Bachelor's</h5>
                             <small>B.S. Financial Planning</small>
                             <small>The University of Georgia</small>
                         </article>
-                        <article className="about__card">
+                        <article className="box about__card">
                             <img src={SynovusIMG} alt="uga logo" className="about__icon" />
                             <h5>Universal Banker</h5>
                             <small>3 Years</small>
@@ -42,11 +42,7 @@ function About() {
                     </div>
 
                     <p>
-                        Hi, I'm Robert and this is where I'm writing about myself.
-                        Hi, I'm Robert and this is where I'm writing about myself.
-                        Hi, I'm Robert and this is where I'm writing about myself.
-                        Hi, I'm Robert and this is where I'm writing about myself.
-                        Hi, I'm Robert and this is where I'm writing about myself.
+                        I am a passionate fullstack developer with experience 
                     </p>
 
                     <a href="contact" className="btn btn-primary">Let's Talk</a>

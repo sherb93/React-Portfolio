@@ -1,6 +1,6 @@
 header {
     /* height: 100vh; */
-    padding-top: 5rem;
+    padding-top: 2rem;
     overflow: hidden;
 }
 
@@ -54,7 +54,7 @@ header {
 /* Tablets */
 @media screen and (max-width: 1024px) {
     header{
-        height: 68vh;
+        /* height: 68vh; */
     }
 }
 

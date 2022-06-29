@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/React-Portfolio/static/js/main.f5364a1c.js",
-    "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
-    "static/media/logo.svg": "/React-Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/React-Portfolio/static/css/main.f0ad4a68.css",
+    "main.js": "/React-Portfolio/static/js/main.79850231.js",
+    "static/media/socialnetwork.PNG": "/React-Portfolio/static/media/socialnetwork.146b5f59e8ba1562da48.PNG",
+    "static/media/portrait.png": "/React-Portfolio/static/media/portrait.fcc485442a9a09374e18.png",
+    "static/media/resume.pdf": "/React-Portfolio/static/media/resume.035b79aa4b29c5914056.pdf",
+    "static/media/synovus_logo.png": "/React-Portfolio/static/media/synovus_logo.3d09374eefd3a24fe652.png",
     "index.html": "/React-Portfolio/index.html",
-    "main.073c9b0a.css.map": "/React-Portfolio/static/css/main.073c9b0a.css.map",
-    "main.f5364a1c.js.map": "/React-Portfolio/static/js/main.f5364a1c.js.map",
-    "787.a2cb61a6.chunk.js.map": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
+    "main.f0ad4a68.css.map": "/React-Portfolio/static/css/main.f0ad4a68.css.map",
+    "main.79850231.js.map": "/React-Portfolio/static/js/main.79850231.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.f5364a1c.js"
+    "static/css/main.f0ad4a68.css",
+    "static/js/main.79850231.js"
   ]
 }

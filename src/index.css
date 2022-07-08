@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Neuton:wght@300;400;700&family=Poppins:wght@300;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Neuton:wght@300;400;700&family=Poppins:wght@300;400;500;600&family=Raleway:wght@300;400;500;600&display=swap');
 
 * {
     margin: 0;
@@ -9,10 +9,19 @@
     list-style: none;
     text-decoration: none;
 }
+/* 
+:root {
+    COLOR PALETTE
+    --darkblue: #004890;
+    --lightblue: #91BEE8;
+    --blue: #3F91E8;
+    --light: #f2e6d8;
+    --dark: #444557;
+} */
 
 :root {
-    --color-bg: white;
-    --color-bg-variant: #c2c2c2;
+    --color-bg: #fff8f0;
+    --color-bg-variant: #ed6b6b;
     --color-primary: #993c3c;
     --color-primary-variant: #540004;
     --color-black: black;
@@ -34,7 +43,7 @@ html {
 }
 
 body {
-    font-family: 'Neuton', sans-serif;
+    font-family: 'Raleway', sans-serif;
     background: var(--color-bg);
     color: var(--color-black);
     line-height: 1.7;
@@ -46,16 +55,20 @@ body {
 }
 
 h1, h2, h3, h4, h5 {
-    font-weight: 400;
+    font-weight: 500;
 }
 
 h1 {
-    font-size: 2.5rem;
+    font-size: 3.5rem;
 }
 
 section {
     /* margin-top: 8rem; */
-    padding: 6rem 0;
+    padding: 3rem 0;
+}
+
+section > h2 {
+    letter-spacing: 0.8rem;
 }
 
 section > h2, section > h5 {
@@ -66,6 +79,7 @@ section > h2, section > h5 {
 section > h2 {
     color: var(--color-primary);
     margin-bottom: 3rem;
+    letter-spacing: 0.8rem;
 }
 
 .text-light {
@@ -124,7 +138,7 @@ img {
     }
 
     section {
-        margin-top: 6rem;
+        /* margin-top: 6rem; */
     }
 }
 

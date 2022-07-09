@@ -1,6 +1,4 @@
 import React from 'react';
-import CTA from './CTA'
-import Selfie from '../../assets/portrait.png'
 import './header.css';
 
 function Header() {

@@ -24,6 +24,12 @@
     color: var(--color-primary);
 }
 
+.experience__details img {
+    height: 50px;
+    width: 50px;
+    object-fit: contain;
+}
+
 .experience__content {
     display: grid;
     grid-template-columns: 1fr 1fr;

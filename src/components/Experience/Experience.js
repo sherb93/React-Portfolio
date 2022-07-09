@@ -20,35 +20,35 @@ function Experience() {
             <h2>DEV EXPERINCE</h2>
 
             <div className="container experience__container">
-                <div className="experience__frontend">
+                <div className="box experience__frontend">
                     <h3>Frontend Development</h3>
                     <div className="experience__content">
                         <article className="experience__details">
                             <img src={HTML} alt="HTML5 logo" />
                             <div>
                                 <h4>HTML</h4>
-                                <small className="text-light">Experienced</small>
+                                <small className="text-light">Advanced</small>
                             </div>
                         </article>
                         <article className="experience__details">
                             <img src={CSS} alt="HTML5 logo" />
                             <div>
                                 <h4>CSS</h4>
-                                <small className="text-light">Experienced</small>
+                                <small className="text-light">Advnaced</small>
                             </div>
                         </article>
                         <article className="experience__details">
                             <img src={JS} alt="HTML5 logo" />
                             <div>
                                 <h4>JavaScript</h4>
-                                <small className="text-light">Experienced</small>
+                                <small className="text-light">Advanced</small>
                             </div>
                         </article>
                         <article className="experience__details">
                             <img src={ReactLogo} alt="HTML5 logo" />
                             <div>
                                 <h4>React</h4>
-                                <small className="text-light">Experienced</small>
+                                <small className="text-light">Intermediate</small>
                             </div>
                         </article>
                         <article className="experience__details">
@@ -67,28 +67,28 @@ function Experience() {
                         </article>
                     </div>
                 </div>
-                <div className="experience__backend">
+                <div className="box experience__backend">
                     <h3>Backend Development</h3>
                     <div className="experience__content">
                         <article className="experience__details">
                             <img src={Node} alt="HTML5 logo" />
                             <div>
                                 <h4>Node.js</h4>
-                                <small className="text-light">Experienced</small>
+                                <small className="text-light">Advanced</small>
                             </div>
                         </article>
                         <article className="experience__details">
                             <img src={Express} alt="HTML5 logo" />
                             <div>
                                 <h4>Express.js</h4>
-                                <small className="text-light">Experienced</small>
+                                <small className="text-light">Advanced</small>
                             </div>
                         </article>
                         <article className="experience__details">
                             <img src={Mongodb} alt="HTML5 logo" />
                             <div>
                                 <h4>MongoDB</h4>
-                                <small className="text-light">Experienced</small>
+                                <small className="text-light">Intermediate</small>
                             </div>
                         </article>
                         <article className="experience__details">
@@ -102,14 +102,14 @@ function Experience() {
                             <img src={Sequelize} alt="HTML5 logo" />
                             <div>
                                 <h4>Sequelize</h4>
-                                <small className="text-light">Experienced</small>
+                                <small className="text-light">Intermediate</small>
                             </div>
                         </article>
                         <article className="experience__details">
                             <img src={NPM} alt="HTML5 logo" />
                             <div>
                                 <h4>npm</h4>
-                                <small className="text-light">Experienced</small>
+                                <small className="text-light">Advanced</small>
                             </div>
                         </article>
                     </div>

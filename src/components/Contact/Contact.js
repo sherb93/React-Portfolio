@@ -11,21 +11,21 @@ function Contact() {
 
             <div className="container contact__container">
 
-                <article className="contact__option">
+                <article className="box contact__option">
                     <AiOutlinePhone />
                     <h4>Phone</h4>
                     <h5>706-340-2125</h5>
                     <a href="tel:706-340-2125" target="_blank" rel="noreferrer">Call</a>
                 </article>
                 
-                <article className="contact__option">
+                <article className="box contact__option">
                     <MdOutlineEmail />
                     <h4>Email</h4>
                     <h5>rslocumbe93@gmail.com</h5>
                     <a href="mailto:rslocumbe93@gmail.com" target="_blank" rel="noreferrer">Send an email</a>
                 </article>
 
-                <article className="contact__option">
+                <article className="box contact__option">
                     <BsLinkedin />
                     <h4>LinkedIn</h4>
                     <h5>Robert Slocumbe</h5>

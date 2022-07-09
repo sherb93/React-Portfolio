@@ -14,6 +14,7 @@
 
 .experience__container > div:hover {
     background: transparent;
+    transform: scale(1.05);
     border-color: var(--color-primary-variant);
     cursor: default;
 }

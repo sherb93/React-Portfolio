@@ -1,3 +1,7 @@
+#contact {
+    margin-bottom: 4rem;
+}
+
 .contact__container {
     display: flex;
     gap: 1.8rem;

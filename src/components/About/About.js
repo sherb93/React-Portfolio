@@ -23,13 +23,13 @@ function About() {
                     <div className="about__cards">
                         <article className="box about__card">
                             <img src={GaTechIMG} alt="uga logo" className="about__icon" />
-                            <h5>Certificate</h5>
+                            <h5>Fullstack Certificate</h5>
                             <small>Fullstack Web Development</small>
                             <small>The Georgia Institute of Technology</small>
                         </article>
                         <article className="box about__card">
                             <img src={UgaIMG} alt="uga logo" className="about__icon" />
-                            <h5>Bachelor's</h5>
+                            <h5>Bachelor's Degree</h5>
                             <small>B.S. Financial Planning</small>
                             <small>The University of Georgia</small>
                         </article>

@@ -17,12 +17,12 @@ function Nav() {
             >
                 <AiOutlineHome />
             </a>
-            <a href="#about"
+            {/* <a href="#about"
                 className={activeTab === "#about" ? "active" : ""}
                 onClick={() => setActiveTab("#about")}
             >
                 <AiOutlineUser />
-            </a>
+            </a> */}
             <a href="#experience"
                 className={activeTab === "#experience" ? "active" : ""}
                 onClick={() => setActiveTab("#experience")}

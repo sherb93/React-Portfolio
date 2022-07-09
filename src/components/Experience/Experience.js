@@ -1,5 +1,4 @@
 import React from 'react';
-import {BsPatchCheckFill} from 'react-icons/bs'
 import HTML from '../../assets/logos/html5.png';
 import CSS from '../../assets/logos/css.png';
 import JS from '../../assets/logos/javascript.png';

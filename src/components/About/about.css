@@ -16,10 +16,6 @@
     max-height: 600px;
 }
 
-.about__me-image img {
-
-}
-
 .about__socials {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -42,13 +38,6 @@
     font-size: 0.7rem;
     margin-top: 1rem;
 }
-
-/* .about__me-image {
-    border-radius: 2rem;
-    overflow: hidden;
-    transform-origin: rotate(10deg);
-    transition: var(--transition);
-} */
 
 .about__cards {
     display: grid;

@@ -42,7 +42,7 @@ function About() {
                     </div>
 
                     <p>
-                        I am a passionate fullstack developer who values creative problem solving and communication. My education includes a bachelor’s degree in Financial Planning from the University of Georgia, and a Certificate in Fullstack Web Development from The Georgia Institute of Technology. I have experience building MERN stack apps and fullstack apps using the MVC structure. My experience working in a professional setting within the finance industry supplied me with the soft skills needed to work well with any team. With each assignment, I strive to convey the client’s branding and mission with sleek and thoughtful design that exceeds expectations. 
+                        I am a passionate fullstack developer who values creative problem solving and communication. My education includes a bachelor’s degree in Financial Planning from the University of Georgia and a Certificate in Fullstack Web Development from The Georgia Institute of Technology. I have experience building MERN stack apps and fullstack apps using the MVC structure. My experience working in a professional setting within the finance industry supplied me with the soft skills needed to work well with any team. With each assignment, I strive to convey the client’s branding and mission with sleek and thoughtful design that exceeds expectations. 
                     </p>
 
                 </div>

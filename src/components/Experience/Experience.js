@@ -33,7 +33,7 @@ function Experience() {
                             <img src={CSS} alt="HTML5 logo" />
                             <div>
                                 <h4>CSS</h4>
-                                <small className="text-light">Advnaced</small>
+                                <small className="text-light">Advanced</small>
                             </div>
                         </article>
                         <article className="experience__details">

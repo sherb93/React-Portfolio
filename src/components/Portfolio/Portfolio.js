@@ -75,7 +75,7 @@ function Portfolio() {
                     </div>
                     <div className="portfolio__item-cta">
                         <a href="https://github.com/sherb93/Multiple-Choice-Quiz" className="btn" target="_blank">Github</a>
-                        <a href="" className="btn btn-primary" target="_blank">Demo</a>
+                        <a href="https://sherb93.github.io/Multiple-Choice-Quiz/" className="btn btn-primary" target="_blank">Demo</a>
                     </div>
                 </article>
                 <article className="box portfolio__item">
@@ -88,7 +88,7 @@ function Portfolio() {
                     </div>
                     <div className="portfolio__item-cta">
                         <a href="https://github.com/sherb93/Work-Day-Scheduler" className="btn" target="_blank">Github</a>
-                        <a href="" className="btn btn-primary" target="_blank">Demo</a>
+                        <a href="https://sherb93.github.io/Work-Day-Scheduler/" className="btn btn-primary" target="_blank">Demo</a>
                     </div>
                 </article>
             </div>

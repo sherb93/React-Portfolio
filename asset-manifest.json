@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.cd686448.css",
-    "main.js": "/React-Portfolio/static/js/main.5b299c00.js",
+    "main.css": "/React-Portfolio/static/css/main.2d1ba041.css",
+    "main.js": "/React-Portfolio/static/js/main.77c932ea.js",
     "static/media/cms.PNG": "/React-Portfolio/static/media/cms.bc60ed16722496467150.PNG",
     "static/media/quiz.png": "/React-Portfolio/static/media/quiz.6d09d41e2be2f125950b.png",
     "static/media/socialnetwork.PNG": "/React-Portfolio/static/media/socialnetwork.146b5f59e8ba1562da48.PNG",
+    "static/media/weather.PNG": "/React-Portfolio/static/media/weather.41a4e62c280df60b9ee8.PNG",
     "static/media/portrait.png": "/React-Portfolio/static/media/portrait.fcc485442a9a09374e18.png",
     "static/media/beerbuddy.PNG": "/React-Portfolio/static/media/beerbuddy.585092d46d864cc98323.PNG",
     "static/media/react.png": "/React-Portfolio/static/media/react.8a6fc0a24a800d1e0f4a.png",
     "static/media/resume.pdf": "/React-Portfolio/static/media/resume.035b79aa4b29c5914056.pdf",
-    "static/media/weather.PNG": "/React-Portfolio/static/media/weather.21a32590e9702de08f12.PNG",
     "static/media/weatherapp.PNG": "/React-Portfolio/static/media/weatherapp.365aed2f2c9f798b4a31.PNG",
     "static/media/synovus_logo.png": "/React-Portfolio/static/media/synovus_logo.3d09374eefd3a24fe652.png",
     "static/media/sequelize.png": "/React-Portfolio/static/media/sequelize.e7adaa25f39264c50149.png",
     "static/media/javascript.png": "/React-Portfolio/static/media/javascript.266bd9fb2663dcc057b4.png",
     "index.html": "/React-Portfolio/index.html",
-    "main.cd686448.css.map": "/React-Portfolio/static/css/main.cd686448.css.map",
-    "main.5b299c00.js.map": "/React-Portfolio/static/js/main.5b299c00.js.map"
+    "main.2d1ba041.css.map": "/React-Portfolio/static/css/main.2d1ba041.css.map",
+    "main.77c932ea.js.map": "/React-Portfolio/static/js/main.77c932ea.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd686448.css",
-    "static/js/main.5b299c00.js"
+    "static/css/main.2d1ba041.css",
+    "static/js/main.77c932ea.js"
   ]
 }

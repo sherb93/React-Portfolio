@@ -19,7 +19,8 @@ function Portfolio() {
                     </div>
                     <div className="portfolio__description">
                         <h3>Beer Buddy</h3>
-                        <small>JS/jQuery/API</small> 
+                        <small><em>Technologies: </em> JS | jQuery</small>
+                        <small><em>Description: </em> A brewery review app that fetches local breweries for any US city.</small>
                     </div>
                     <div className="portfolio__item-cta">
                         <a href="https://github.com/sherb93/beer_buddy" className="btn" target="_blank">Github</a>
@@ -31,12 +32,12 @@ function Portfolio() {
                         <img src={IMG3} alt="sql project" />
                     </div>
                     <div className="portfolio__description">
-                        <h3>SQL CMS</h3>
-                        <small>SQL/mySQL/Sequelize</small> 
+                        <h3>Employee CMS</h3>
+                        <small><em>Technologies: </em>SQL | MySQL | Sequelize</small>
+                        <small><em>Description: </em>An employee database interface used in the terminal to get and manipulate employee data.</small>
                     </div>
                     <div className="portfolio__item-cta">
                         <a href="https://github.com/sherb93/Employee-CMS" className="btn" target="_blank">Github</a>
-                        <a href="https://github.com/sherb93/Employee-CMS" className="btn btn-primary" target="_blank">Demo</a>
                     </div>
                 </article>
                 <article className="box portfolio__item">
@@ -44,8 +45,9 @@ function Portfolio() {
                         <img src={IMG5} alt="weather app project" />
                     </div>
                     <div className="portfolio__description">
-                        <h3>Weather App</h3>
-                        <small>JavaScript/jQuery/Momentjs</small> 
+                        <h3>Weather N.O.W.</h3>
+                        <small><em>Technologies: </em>JS | jQuery | Momentjs</small>
+                        <small><em>Description: </em>A weather app for any location in the world that shows current and forecasted weather.</small>
                     </div>
                     <div className="portfolio__item-cta">
                         <a href="https://github.com/sherb93/Weather-App" className="btn" target="_blank">Github</a>
@@ -58,11 +60,11 @@ function Portfolio() {
                     </div>
                     <div className="portfolio__description">
                         <h3>Social Network API</h3>
-                        <small>MongoDB/Mongoose/Insomnia</small> 
+                        <small><em>Technologies: </em>MongoDB | Mongoose</small>
+                        <small><em>Description: </em>A small-scale API designed for a social media platform using NoSQL with MongoDB.</small>
                     </div>
                     <div className="portfolio__item-cta">
                         <a href="https://github.com/sherb93/Social-Network-API" className="btn" target="_blank">Github</a>
-                        <a href="https://github.com/sherb93/Social-Network-API" className="btn btn-primary" target="_blank">Demo</a>
                     </div>
                 </article>
                 <article className="box portfolio__item">
@@ -71,7 +73,8 @@ function Portfolio() {
                     </div>
                     <div className="portfolio__description">
                         <h3>Coding Quiz</h3>
-                        <small>JavaScript/HTML/CSS</small> 
+                        <small><em>Technologies: </em>JS | HTML | CSS</small>
+                        <small><em>Description: </em>Quizzes users on their coding knowledge and saves highscores to localstorage.</small>
                     </div>
                     <div className="portfolio__item-cta">
                         <a href="https://github.com/sherb93/Multiple-Choice-Quiz" className="btn" target="_blank">Github</a>
@@ -84,7 +87,8 @@ function Portfolio() {
                     </div>
                     <div className="portfolio__description">
                         <h3>Daily Schedule</h3>
-                        <small>jQuery/Bootstrap/Momentjs</small> 
+                        <small><em>Technologies: </em>JS | jQuery | Bootstrap | Momentjs</small>
+                        <small><em>Description: </em>A daily schedule app that saves tasks and tracks the time and date.</small>
                     </div>
                     <div className="portfolio__item-cta">
                         <a href="https://github.com/sherb93/Work-Day-Scheduler" className="btn" target="_blank">Github</a>
